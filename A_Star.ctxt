@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=A_Star
+comment1.params=row\ col
+comment1.target=boolean\ isValid(int,\ int)
+comment2.params=maze\ row\ col
+comment2.target=boolean\ isUnBlocked(int[][],\ int,\ int)
+comment3.params=row\ col\ dest
+comment3.target=boolean\ isDestination(int,\ int,\ Pair)
+comment4.params=row\ col\ dest
+comment4.target=double\ calculateHValue(int,\ int,\ Pair)
+comment5.params=maze
+comment5.target=void\ printMaze(int[][])
+comment6.params=cellDetails\ dest
+comment6.target=void\ tracePath(cell[][],\ Pair)
+comment7.params=grid\ src\ dest
+comment7.target=void\ aStarSearch(int[][],\ Pair,\ Pair)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=pPair
+comment1.params=variable\ pair
+comment1.target=pPair(double,\ Pair)
+comment2.params=
+comment2.target=Pair\ getPair()
+numComments=3

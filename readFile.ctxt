@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=readFile
+comment1.params=plik
+comment1.target=int\ returnRozmiar(java.lang.String)
+comment2.params=nazwa
+comment2.target=int[][]\ odczyt(java.lang.String)
+numComments=3
